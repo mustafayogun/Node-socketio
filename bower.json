@@ -1,0 +1,14 @@
+{
+  "name": "node-socketio",
+  "description": "",
+  "main": "",
+  "authors": [
+    "mustafayogun <musyoo@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mustafayogun/Node-socketio",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "semantic": "^2.4.1"
+  }
+}
